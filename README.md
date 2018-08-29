@@ -41,7 +41,9 @@ Enter the PIN to complete the pairing process and authorize the Moonlight/Pi uni
 
 
 
+The format for the moonlight streaming command is as follows, where again X.X.X.X is the IP of the gaming PC.
 
+moonlight streaming [options] X.X.X.X
 
 
 
